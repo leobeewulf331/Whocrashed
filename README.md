@@ -221,4 +221,4 @@ WhoCrashed is offered as a complete free version with all features and updates i
 Don't let system crashes frustrate you any longer! Download WhoCrashed today and take control of your PC's stability.
 
 ---
-**Last updated:** 2026-10-07 14:17:36 UTC
+**Last updated:** 2026-10-07 20:26:21 UTC
